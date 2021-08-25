@@ -1,3 +1,3 @@
 # Episode's 1 & 2
 
-## you expect me to copy everything for you?!
+## I dont have access to the command files yet. Please wait
