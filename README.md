@@ -6,6 +6,8 @@
 
 ## Upcoming
 - Episode 3: Event Handler
+- Episode 4: Music Commands
+- Episode 5: Understanding $api
 
 ## DB-Script
 - [Website](https://www.db-script.xyz)
