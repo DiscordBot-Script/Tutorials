@@ -21,3 +21,11 @@ bot.MessageEvent()
 bot.Variables({
     prefix: ">"
 })
+bot.JoinedCommand({
+  name: "836981346093367367",
+  code: `$title[User Joined!]
+  $description[Welcome $username[$authorID]#$discriminator[$authorID] to the server! Please read the rules.]
+  $footer[Hello]
+  $color[FF0000]`
+})
+bot.onJoined()
